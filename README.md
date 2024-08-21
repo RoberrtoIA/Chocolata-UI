@@ -15,6 +15,9 @@ Below are examples of the UI modifications made by this mod.
 
 #### Without Chocolata:
 
+![alt text](https://github.com/RoberrtoIA/Chocolata-UI/blob/main/age3%20base.png)
+
+![alt text](https://github.com/RoberrtoIA/Chocolata-UI/blob/main/age3%20base2.png)
 
 
 #### With Chocolata:
