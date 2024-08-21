@@ -22,7 +22,9 @@ Below are examples of the UI modifications made by this mod.
 
 #### With Chocolata:
 
+![alt text](https://github.com/RoberrtoIA/Chocolata-UI/blob/main/age3%20mod.png)
 
+![alt text](https://github.com/RoberrtoIA/Chocolata-UI/blob/main/age3%20mod2.png)
 
 ##### Another mods made by me using manage of textures using NVIDIA Texture Tool Explorer, AoE3Ed Texture and UI files (.xaml files):
 
